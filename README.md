@@ -5,7 +5,7 @@ CS student and Cybersecurity enthusiast
 ---------------------------------------
 
 * 🌍  I'm based in Bouira / Algeria
-* 👨‍💻  For now i'm interested in bug hunting and cryptography.
+* 👨‍💻  Currently, I'm passionate about bug hunting, system administration, and automation, constantly exploring ways to improve security, optimize systems, and streamline processes.
 * ✉️  You can contact me at [dany.yakoubi@univ-bouira.dz](mailto:dany.yakoubi@univ-bouira.dz)
 
 
