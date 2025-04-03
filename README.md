@@ -5,8 +5,30 @@ CS student and Cybersecurity enthusiast
 ---------------------------------------
 
 * 🌍  I'm based in Bouira / Algeria
-* 👨‍💻  Currently, I'm passionate about bug hunting, system administration, and automation, constantly exploring ways to improve security, optimize systems, and streamline processes.
 * ✉️  You can contact me at [dany.yakoubi@univ-bouira.dz](mailto:dany.yakoubi@univ-bouira.dz)
+
+<h2>Interests:</h2>
+  
+- 🖥️ Server & Home Lab Configuration & Management  
+- 🛡️ Cybersecurity, Penetration Testing, & Bug Bounty Hunting  
+- 🐧 Linux & Sysadmin Expertise  
+- 🌐 Networking & Virtualization (Proxmox, RADIUS, etc.)  
+- ⚙️ Automation with Python, Bash, & Shell scripting  
+- 🔍 Reconnaissance & Subdomain Monitoring  
+- 📚 Documentation & Writing Technical Guides
+- 🌍 Ethical Hacking & Vulnerability Assessment
+  
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/proxmox/pve-docs/master/images/proxmox-logo.svg" 
