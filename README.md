@@ -5,7 +5,7 @@ CS student and Cybersecurity enthusiast
 ---------------------------------------
 
 * 🌍  I'm based in Bouira / Algeria
-* ✉️  You can contact me at [dany.yakoubi@univ-bouira.dz](mailto:dany.yakoubi@univ-bouira.dz)
+* ✉️  You can contact me at [dany.yakoubi@univ-bouira.dz](mailto:contactme@danyyakoubi.site)
 
 <h2>Interests:</h2>
   
