@@ -51,7 +51,7 @@ CS student and Cybersecurity enthusiast
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daaaaaaanyyyyy&show_icons=true&theme=merko&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api?username=daaaaaaanyyyyy&show_icons=true&theme=merko&cache_seconds=120">
 </p>
 
 <h3 align="center">Socials</h3>
