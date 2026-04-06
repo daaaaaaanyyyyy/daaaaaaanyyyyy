@@ -7,26 +7,6 @@ CS student and Cybersecurity enthusiast
 * 🌍  I'm based in Bouira / Algeria
 * ✉️  You can contact me at [contactme@danyyakoubi.site](mailto:contactme@danyyakoubi.site)
 
-<h2>Interests:</h2>
-  
-- 🖥️ Server & Home Lab Configuration & Management  
-- 🛡️ Cybersecurity, Penetration Testing, & Bug Bounty Hunting  
-- 🐧 Linux & Sysadmin Expertise  
-- 🌐 Networking & Virtualization (Proxmox, RADIUS, etc.)  
-- ⚙️ Automation with Python, Bash, & Shell scripting  
-- 🔍 Reconnaissance & Subdomain Monitoring  
-- 📚 Documentation & Writing Technical Guides
-- 🌍 Ethical Hacking & Vulnerability Assessment
-  
-
-
-
-
-
-
-
-
-
 
 
 
