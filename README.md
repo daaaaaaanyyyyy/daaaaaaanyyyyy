@@ -5,29 +5,10 @@ CS student and Cybersecurity enthusiast
 ---------------------------------------
 
 * 🌍  I'm based in Bouira / Algeria
-* ✉️  You can contact me at [contactme@danyyakoubi.site](mailto:contactme@danyyakoubi.site)
+* ✉️  You can contact me at [dany.yakoubi@proton.me](mailto:dany.yakoubi@proton.me)
 
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/proxmox/pve-docs/master/images/proxmox-logo.svg" 
-       alt="Proxmox" width="240" 
-       style="filter: drop-shadow(2px 2px 3px rgba(0,0,0,0.5));"/>
-   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vmware.svg" 
-       alt="VMware" width="200" 
-       style="filter: contrast(1.2) brightness(1.1);"/>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,vim,arch,js,html,css,bash,c,debian,github,gitlab,kali,lua,md,mysql,neovim,nginx,npm,php,postgres,powershell,py,sqlite,vscodium&perline=13" />
-  </a>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/daaaaaaanyyyyy/daaaaaaanyyyyy/main/images/burpSuite.png" width="45">
-<img src="https://raw.githubusercontent.com/daaaaaaanyyyyy/daaaaaaanyyyyy/main/images/wireshark.png" width="45">  
-</p>
 
 
 
@@ -49,4 +30,3 @@ CS student and Cybersecurity enthusiast
     </picture> 
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=daaaaaaanyyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="daaaaaaanyyyyy" /> </p>
